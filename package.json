@@ -19,5 +19,6 @@
     "mocha": "",
     "should": ""
   },
+  "bin": { "zotero": "./bin/zotero" },
   "optionalDependencies": {}
 }
