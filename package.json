@@ -1,0 +1,23 @@
+{
+  "author": "Wayne Graham <wayne.graham@gmail.com> (http://liquidfoot.com)",
+  "name": "zotero",
+  "description": "Zotero client written in node.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/waynegraham/node-zotero.git"
+  },
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "engines": {
+    "node": "~0.6.14"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "",
+    "should": ""
+  },
+  "optionalDependencies": {}
+}
