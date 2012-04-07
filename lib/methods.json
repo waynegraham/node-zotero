@@ -1,0 +1,15 @@
+{
+  "params" : null,
+  "type" : "ApiMethod"
+  "results" : [
+    {
+      "visibility" : "public",
+      "defaults" : null,
+      "description" : "Gets all Zotero items for a user or group library.",
+      "uri" : "/items",
+      "params" : null,
+      "type" : "ApiMethod",
+      "http_method" : "GET"
+    }
+  ]
+}

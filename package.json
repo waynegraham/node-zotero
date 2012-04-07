@@ -1,5 +1,5 @@
 {
-  "author": "Wayne Graham <wayne.graham@gmail.com> (http://liquidfoot.com)",
+  "author": "Wayne Graham <wayne.graham@gmail.com> (http://github.com/waynegraham)",
   "name": "zotero",
   "description": "Zotero client written in node.",
   "version": "0.0.1",
@@ -7,6 +7,11 @@
     "type": "git",
     "url": "git://github.com/waynegraham/node-zotero.git"
   },
+  "licenses" : [
+    { "type" : "Apache 2.0",
+      "url" : "http://www.apache.org/licenses/LICENSE-2.0.html"
+    }
+  ],
   "main": "lib/main.js",
   "scripts": {
     "test": "mocha test/*.js"
